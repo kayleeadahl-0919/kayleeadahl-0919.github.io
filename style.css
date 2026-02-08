@@ -63,4 +63,7 @@ header {
     background-color: #ffffff;
     padding: 20px;
 }
-body {overflow-x: hidden;}
+body {
+   overflow-x: hidden;
+}
+
